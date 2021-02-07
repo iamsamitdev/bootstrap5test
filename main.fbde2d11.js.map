@@ -1,0 +1,1 @@
+{"version":3,"sources":["js/main.js"],"names":["console","log"],"mappings":";AAGAA,QAAQC,IAAI","file":"main.fbde2d11.js","sourceRoot":"..\\src","sourcesContent":["// var exampleEl = document.getElementById('mytooltip')\r\n// var tooltip = new bootstrap.Tooltip(exampleEl)\r\n\r\nconsole.log(\"This is ok\")"]}
